@@ -61,7 +61,7 @@
   <script>
     var gameUrls = [
       "https://book-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/mind4ur/debugactions@0c449453ccad555fac7e0d86ddc031d476f1f209/edit/n.xml&container=ig",
-      "https://book-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/mind4ur/debugactions@e1ff864f83967d55547361b35f6f1e0f8c093b74/old/old.xml&container=ig"
+      "https://book-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/mind4ur/debugactions@955cea1ae2437efeb70d98eb7b5bc05d1e64d5da/old/old.xml&container=ig"
     ];
 
     function openGameWindow(gameNumber) {
